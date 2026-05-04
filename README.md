@@ -1,4 +1,4 @@
-# nursing-home-quality-performance-dashboard
+# Nursing-home-quality-performance-dashboard
 Nursing Home Quality &amp; Performance Dashboard — Excel Cleaning + Power BI Visualization (In Progress)
 
 This project analyzes nursing home quality, staffing, ownership, and facility characteristics using publicly available CMS datasets.
