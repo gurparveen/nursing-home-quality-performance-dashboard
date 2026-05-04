@@ -79,7 +79,8 @@ nursing-home-quality-dashboard/
 │   └── cleaned_data.xlsx
 │
 ├── excel-cleaning/
-│   └── cleaning_steps.xlsx
+│   ├── cleaned_cms_data.xlsx
+│   └── notes_on_data_quality.md
 │
 ├── powerbi/
 │   └── nursing_home_dashboard.pbix
