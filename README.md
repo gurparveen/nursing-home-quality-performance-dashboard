@@ -31,7 +31,8 @@ The Overview page includes:
 - **Geographic Distribution (Filled Map)**
 
 📸 Screenshot
-![Overview Page]()
+
+![Overview Page](images/overview_nursing_home_dashboard.png)
 
 ## 🧹 Excel Data Cleaning
 
