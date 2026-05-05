@@ -32,7 +32,7 @@ The Overview page includes:
 
 📸 Screenshot
 
-![Overview Page](images/overview_nursing_home_dashboard.png)
+![Overview Page](images/overview_nursing_home_dashboard.png.png)
 
 ## 🧹 Excel Data Cleaning
 
