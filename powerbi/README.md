@@ -7,7 +7,7 @@ This folder contains the Power BI report for the Nursing Home Quality & Performa
 
 ## Dashboard Pages
 - Overview Page – Completed
-- Quality Page – In Progress
+- Quality Page – Completed
 - Staffing Page – In Progress
 - Facility Page – In Progress
 - Chain Ownership Page – In Progress
