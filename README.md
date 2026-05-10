@@ -13,12 +13,12 @@ This project follows a full analytics workflow:
 2. **Power BI** – Data modeling and dashboard development  
 3. **Dashboard Pages** (in progress):
     - ✔ **Overview Page** (Completed)
-    - ⏳ Quality Page (In Progress)
+    - ✔ **Quality Page** (Completed)
     - ⏳ Staffing Page (In Progress)
     - ⏳ Facility Page (In Progress)
     - ⏳ Chain Ownership Page (In Progress)
 
-## 📊 Completed: Overview Page
+##  Overview Page
 
 The Overview page provides insights into total facilities, average ratings, resident census, rating distribution, ownership breakdown, facility size distribution, and geographic distribution.
 
@@ -26,7 +26,7 @@ The Overview page provides insights into total facilities, average ratings, resi
 
 ![Overview Page](images/overview_nursing_home_dashboard.png)
 
-### Quality Page
+## Quality Page
 Provides insights into Quality Measure ratings, deficiency patterns, and facility performance.
 
 ![Quality Page](images/quality_nursing_home_dashboard.png)
