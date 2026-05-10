@@ -83,7 +83,8 @@ nursing-home-quality-dashboard/
 │   └── nursing_home_dashboard.pbix
 │
 ├── images/
-│   └── overview_page.png
+│   ├── overview page.png
+│   └── Quality page.png
 │
 └── README.md
 ```
