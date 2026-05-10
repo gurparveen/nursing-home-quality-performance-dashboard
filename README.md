@@ -55,7 +55,6 @@ Cleaning steps performed:
 This repository will be updated as each dashboard page is completed.
 
 **Next steps:**
-- Build Quality page (ratings, deficiencies, inspection trends)
 - Build Staffing page (HPRD, RN hours, staffing ratings)
 - Build Facility page (beds, occupancy, resident characteristics)
 - Build Chain page (corporate ownership analysis)
