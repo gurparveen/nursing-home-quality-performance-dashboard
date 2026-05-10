@@ -20,19 +20,17 @@ This project follows a full analytics workflow:
 
 ## 📊 Completed: Overview Page
 
-The Overview page includes:
-- **Total Facilities**
-- **Average Overall Rating**
-- **Average Staffing Rating**
-- **Average Residents per Day**
-- **Facility Rating Distribution**
-- **Ownership Breakdown**
-- **Facility Size Distribution**
-- **Geographic Distribution (Filled Map)**
+The Overview page provides insights into total facilities, average ratings, resident census, rating distribution, ownership breakdown, facility size distribution, and geographic distribution.
 
 📸 Screenshot
 
-![Overview Page](images/overview_nursing_home_dashboard.png.png)
+![Overview Page](images/overview_nursing_home_dashboard.png)
+
+### Quality Page
+Provides insights into Quality Measure ratings, deficiency patterns, and facility performance.
+
+![Quality Page](images/quality_nursing_home_dashboard.png)
+
 
 ## 🧹 Excel Data Cleaning
 
