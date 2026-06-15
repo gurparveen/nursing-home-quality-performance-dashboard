@@ -6,11 +6,10 @@ This folder contains the Power BI report for the Nursing Home Quality & Performa
 - `nursing_home_dashboard.pbix` – Power BI report file
 
 ## Dashboard Pages
-- Overview Page – Completed
-- Quality Page – Completed
-- Staffing Page – In Progress
-- Facility Page – In Progress
-- Chain Ownership Page – In Progress
+- Overview Page
+- Quality Page  
+- Staffing Page 
+- Facility Page 
 
 ## Features
 - Clean data model using cleaned Excel dataset
@@ -18,5 +17,3 @@ This folder contains the Power BI report for the Nursing Home Quality & Performa
 - Navigation sidebar for multi‑page experience
 - Consistent color theme and layout
 
-## Notes
-Additional pages will be added as they are completed.
