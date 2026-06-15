@@ -11,12 +11,11 @@ This project follows a full analytics workflow:
 
 1. **Excel** – Data cleaning, standardization, and quality checks  
 2. **Power BI** – Data modeling and dashboard development  
-3. **Dashboard Pages** (in progress):
-    - ✔ **Overview Page** (Completed)
-    - ✔ **Quality Page** (Completed)
-    - ⏳ Staffing Page (In Progress)
-    - ⏳ Facility Page (In Progress)
-    - ⏳ Chain Ownership Page (In Progress)
+3. **Dashboard Pages**:
+    - Overview Page
+    - Quality Page
+    - Staffing Page
+    - Facility Page
 
 ##  Overview Page
 
@@ -31,6 +30,15 @@ Provides insights into Quality Measure ratings, deficiency patterns, and facilit
 
 ![Quality Page](images/quality_nursing_home_dashboard.png)
 
+## Staffing Page
+Evaluates RN, LPN, and CNA staffing levels, total nursing hours, and staffing ratings across ownership types.
+
+![Staffing Page](images/staffing_nursing_home_dashboard.png)  
+
+## Facility Drill-Through Page
+Shows detailed facility-level metrics including ratings, staffing hours, deficiencies, occupancy, and location.
+
+![Facility Page](images/facility_nursing_home_dashboard.png)  
 
 ## 🧹 Excel Data Cleaning
 
@@ -49,15 +57,6 @@ Cleaning steps performed:
 - Designed Overview page layout
 - Added navigation sidebar for multi‑page experience
 - Additional pages will be added as they are completed
-
-## 🚧 Project Status: In Progress
-
-This repository will be updated as each dashboard page is completed.
-
-**Next steps:**
-- Build Staffing page (HPRD, RN hours, staffing ratings)
-- Build Facility page (beds, occupancy, resident characteristics)
-- Build Chain page (corporate ownership analysis)
 
 ## 🛠 Tools Used
 
@@ -85,6 +84,8 @@ nursing-home-quality-dashboard/
 ├── images/
 │   ├── overview page.png
 │   └── Quality page.png
+│   └── Staffing page.png
+│   └── Facility page.png
 │
 └── README.md
 ```
